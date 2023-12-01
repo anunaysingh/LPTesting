@@ -9,6 +9,5 @@ import org.junit.runner.RunWith;
         plugin = {"pretty"},
         tags="@smokeTest",
         features = "src/test/resources/features"
-
 )
 public class TestRunner {}
